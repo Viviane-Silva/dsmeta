@@ -1,7 +1,7 @@
 # Projeto dsmeta
 
 ## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Estudo de Spring React
->  *Realizado com o apoio [DevSuperior - Escola de programação]*
+>  *Realizado com o apoio DevSuperior - Escola de programação*
 
 
 ### Projeto de estudo Spring React

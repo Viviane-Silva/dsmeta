@@ -5,8 +5,8 @@
 
 
 ### Projeto de estudo Spring React
-- Objetivo do projeto foi estudar algumas das tecnologias já vista e colocar em prática o desenvolvimento frontend e backend,
-- abordando criação de banco de dados, a criação de endpoints API Rest e integração com a nuvem. 
+- Objetivo do projeto foi estudar algumas das tecnologias já vista e colocar em prática o desenvolvimento frontend e backend.
+- Abordando também criação de banco de dados, a criação de endpoints API Rest e integração com a nuvem. 
 
 
 ### Algumas das ferramentas usadas para o desenvolvimendo deste projeto:
